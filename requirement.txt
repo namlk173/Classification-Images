@@ -1,0 +1,2 @@
+#Thư viện: tensorflow --version: 2.8.0
+pip install tensorflow
